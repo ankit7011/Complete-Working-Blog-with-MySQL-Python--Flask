@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codinghub",
+    "prod_uri": "mysql://root:@localhost/codinghub",
+    "fb_url": "https://facebook.com/codinghub",
+    "tweet_url": "https://twitter.com/codinghub",
+    "git_url": "https://github.com/codinghub",
+    "blog_name": "CodinG HuB",
+    "tag_line": "A Perfect Enviorment For Programmers",
+    "gmail-user": "Your Gmail",
+    "gmail-pass": "Your Pass",
+    "about_text": "This page is Created By Ankit yadav as a Practice Blog",
+    "login_image": "login.png",
+    "admin_user": "Ankit",
+    "admin_password": "Hey123",
+    "no_of_posts":2,
+    "upload_location": "D:\\CodinG\\Programs\\WEB D\\Python Flask\\static" 
+  }
+}
